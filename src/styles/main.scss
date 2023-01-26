@@ -1,0 +1,14 @@
+@import './components/input';
+@import './components/card';
+@import './pages/login';
+@import './components/fieldWrapper';
+@import './components/button';
+@import './pages/client';
+
+$font-stack: Helvetica, sans-serif;
+
+body {
+    background-color: rgb(244, 248, 251);
+    margin: 0px;
+    font-family: "Times New Roman", Times, serif;
+}

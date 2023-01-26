@@ -1,0 +1,18 @@
+@mixin common() {
+    padding: 10px;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 1px solid lightgray;
+    margin: 3px;
+}
+
+
+input[type=text] {
+    width: 100%;
+    @include common;
+}
+
+input[type=password] {
+    width: 100%;
+    @include common;
+}

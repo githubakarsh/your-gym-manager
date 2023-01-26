@@ -1,0 +1,30 @@
+.login-container {
+    display: flex;
+}
+
+.login-left-division {
+    width: 30%;
+    background-color: #ff0000;
+    height: 100vh;
+}
+
+.login-right-division {
+    width: 70%;
+    height: 100vh;
+    background-color: white;
+}
+
+.login-form-container {
+    width: 40%;
+    margin: auto;
+    margin-top: 25%;
+}
+
+.login-form-button-container {
+    text-align: center;
+    margin-top: 25px;
+}
+
+.login-form-title {
+    text-align: center;
+}
