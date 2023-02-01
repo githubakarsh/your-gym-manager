@@ -8,7 +8,6 @@ function App() {
       <main>
         <AppRouter />
       </main>
-      <footer>Footer</footer>
     </div>
   );
 }
